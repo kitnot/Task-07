@@ -1,0 +1,15 @@
+Steps to remove extensions 
+
+sep 1:
+	Go to your browser.
+
+step 2:
+	Search for extensions/add-ons manager on three dots options.
+
+step 3:
+	click remove on the extensions you want to remove.
+
+step 4:
+	click on remove on popup.
+
+Now you have successfully removed extension
